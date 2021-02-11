@@ -1,4 +1,4 @@
-source code for the paper entitled "On Augmenting Topological Graph Representations for Attributed Graphs" submitted to Information Sciences for review <br>
+source code for the paper entitled "On Augmenting Topological Graph Representations for Attributed Graphs" submitted to journal of Information Sciences for review <br>
 
 Requirements: <br>
 python3 <br>
