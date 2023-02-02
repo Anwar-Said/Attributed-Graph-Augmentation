@@ -11,11 +11,11 @@ grakel
 
 Running model
 
-This paper proposes a novel graph augmentation framework that transforms attributed graphs into unattributed graphs while preserving the attribute information. This allows to directly apply graph kernels and other graph descriptors on the enhanced augmented graphs to improve their performance. The proposed framework has been evaluated on toxicity prediction task, for which several molecular datasets were considered. Please see the paper for the dataset sources and formats. <br>
+This paper proposes a novel graph augmentation framework that transforms attributed graphs into unattributed graphs while preserving the attribute information. This allows directly applying graph kernels and other graph descriptors on the enhanced augmented graphs to improve their performance. The proposed framework was evaluated on toxicity prediction task, for which several molecular datasets were considered. Please see the paper for the dataset sources and formats. <br>
 
 This repository provides the source code for the proposed approach and can be run in the following way. 
 
-For easy reproducability of the results, we provide all the augmented datasets using the proposed approach in two directories: data_cliques and lollipop. Data_cliques direcotry contains the graphs where clique augmentation has been performed (Table 2 in the paper). Lollipop director contains the augmented lollipop graphs respectively. We also provide the simple graphs where node attributes were ignored in "smiles" directory. 
+For easy reproducability of the results, we provide all the augmented datasets using the proposed approach in two directories: data_cliques and lollipop. Data_cliques direcotry contains the graphs where clique augmentation has been performed (Table 2 in the paper). Lollipop directory contains the augmented lollipop graphs respectively. We also provide the simple graphs where node attributes were ignored in "smiles" directory. 
 
 we have applied different methods to compare the results on simple and augmented graphs. Here we provide the source codes for three methods: NetLSD, shortest path kernel and WL kernel. We provide the following files:
 
