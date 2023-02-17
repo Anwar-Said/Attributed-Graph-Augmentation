@@ -34,12 +34,12 @@ To regenerate the augmented graphs, we also provide the source code in main.py f
 
 Paper <br>
 
-@article{said2023augmenting,
-  title={On augmenting topological graph representations for attributed graphs},
-  author={Said, Anwar and Shabbir, Mudassir and Hassan, Saeed-Ul and Hassan, Zohair Raza and Ahmed, Ammar and Koutsoukos, Xenofon},
-  journal={Applied Soft Computing},
-  pages={110104},
-  year={2023},
-  publisher={Elsevier}
-}
+@article{said2023augmenting,<br>
+  title={On augmenting topological graph representations for attributed graphs},<br>
+  author={Said, Anwar and Shabbir, Mudassir and Hassan, Saeed-Ul and Hassan, Zohair Raza and Ahmed, Ammar and Koutsoukos, Xenofon},<br>
+  journal={Applied Soft Computing},<br>
+  pages={110104},<br>
+  year={2023},<br>
+  publisher={Elsevier}<br>
+}<br>
 
