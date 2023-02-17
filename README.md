@@ -32,3 +32,14 @@ Other files such as shortest path kernel.py and kernels.py do the same.
 
 To regenerate the augmented graphs, we also provide the source code in main.py file along with datasets in smile format (smile directory). This source code can be used to generate the augmented graphs. 
 
+Paper <br>
+
+@article{said2023augmenting,
+  title={On augmenting topological graph representations for attributed graphs},
+  author={Said, Anwar and Shabbir, Mudassir and Hassan, Saeed-Ul and Hassan, Zohair Raza and Ahmed, Ammar and Koutsoukos, Xenofon},
+  journal={Applied Soft Computing},
+  pages={110104},
+  year={2023},
+  publisher={Elsevier}
+}
+
